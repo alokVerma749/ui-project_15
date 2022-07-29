@@ -83,12 +83,13 @@ This project is presently deployed in **Netlify Service**
   - ✔ CSS Selectors
   - ✔ Background property 
   - ✔ Box Shadow
+  - ✔ Positioning
   - ✔ Working with svg files
 <!-- NOTE -->
 
 ## Note
 
-For this project I took around `9 to 10 hours` to complete it. The major portion of my time spent in working on designing the cards with line and dots.
+For this project I took around `7 to 8 hours` to complete it. The major portion of my time spent in working on designing the cards with line and dots.
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
