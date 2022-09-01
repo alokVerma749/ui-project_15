@@ -231,3 +231,78 @@ table td {
   margin: 0 auto;
   height: 4vh;
 }
+
+
+/* media query */
+@media (max-width:800px) {
+  img {
+      background-color: white;
+    }
+    nav{
+      display: none;
+    }
+    header{
+      background-color: #ffffff;
+    }
+    .hero {
+      flex-direction: column;
+      text-align: center;
+    }
+    .red-btn{
+      margin: 0 auto;;
+    }
+    .background{
+      display: none;
+    }
+    .cards{
+      flex-direction: column;
+      text-align: center;
+      justify-content: space-around;
+    }
+    .card{
+      width: 90%;
+      margin: 0 auto;
+    }
+    .bottom .row{
+      flex-direction: column;
+      text-align: center;
+    }
+    .bottom .row .container{
+      margin: 0 auto;
+    }
+    .top{
+      align-items: center;
+    }
+    .bottom .container{
+      width: 80%;
+      padding: 5px;
+    }
+    .container h4 {
+      font-size: 20px;
+    }
+    .container p {
+      font-size: 15px;
+    }
+    .banner{
+      flex-direction: column;
+      text-align: center;
+    }
+    .banner .text-content{
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .bottom-nav{
+      display: none;
+    }
+    .bottom-header{
+      background-color: black;
+    }
+    .bottom-header .logo{
+      display: none;
+    }
+    .bottom-header .socials {
+      margin: 0 auto;
+      background-color: black;
+      height: 4vh;
+    }
+  }
